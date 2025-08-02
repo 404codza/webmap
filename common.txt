@@ -1,0 +1,61 @@
+/logger.php                                             /cookie.txt
+/admin.html
+/veri/kullanıcılar.html
+/prod/ü.html
+/admin
+/admin.php
+/admin.html                                             /admin/login
+/adminpanel
+/administrator                                          /dashboard
+/login
+/login.php
+/user/login
+/users/login
+/manager                                                /moderator
+/backoffice
+/portal                                                 /cpanel
+/wp-admin
+/wp-login.php
+/shop
+/cart                                                   /order
+/checkout
+/payment
+/secure
+/config
+/config.php
+/.git
+/.env
+/.htaccess
+/server-status
+/phpinfo.php
+/db
+/database
+/phpmyadmin
+/setup
+/installer
+/install.php
+/tmp
+/test
+/test.php
+/dev
+/dev/login
+/dev/admin
+/beta
+/debug
+/api
+/api/v1
+/api/login
+/admin/api
+/assets
+/uploads
+/images
+/files
+/download
+/private
+/secret
+/hidden
+/backup
+/backup.zip
+/backup.tar.gz
+/index.php.bak
+/index.html.old
