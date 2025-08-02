@@ -1,5 +1,6 @@
 # webmap
 Websitenin sayfalarını gösterir 
+
 kurulum:
 
 pkg install python 
