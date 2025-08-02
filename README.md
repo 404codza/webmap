@@ -9,9 +9,11 @@ pip install colorama
 pip install requests
 
 =====================
+
 nano webmap.py
 
 example.com yerine tarayacağanız website ismi ile değiştirin.
+
 =====================
 
 çalıştırma:
